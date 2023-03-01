@@ -1,5 +1,5 @@
-https://user-images.githubusercontent.com/126388917/222245106-95198d74-655c-4c82-a3fc-5945bec95ee9.mp4
-
+![welcome](https://github.com/VictoriaK-QA/VictoriaK-QA/blob/main/1.3.gif)
+---
 -
 **VictoriaK-QA/VictoriaK-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
