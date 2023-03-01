@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![name](https://github.com/VictoriaK-QA/VictoriaK-QA/blob/main/1.1.JPG)
 <!--
 **VictoriaK-QA/VictoriaK-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
