@@ -2,16 +2,9 @@
 ---
 SKILLS
 ---
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" /> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-</p>
+![Postman](https://camo.githubusercontent.com/e33120be981423c3a67ea0fd71e05da413f486246543e882e4f6a89882c3c59c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d663736393335)
+![GIT](https://camo.githubusercontent.com/113ebd32c98dc45dc34ecc54df9d0c252362520f42c714064d6f21cdd6620ede/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d386363346437)
+![CHARLES](https://camo.githubusercontent.com/75709f6e7701525adf356038ac038efc11e75681852f87eaaab93ca16ce35610/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436861726c657350726f78792d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d636861726c657370726f7879266c6f676f436f6c6f723d386363346437)
+![GITHUB](https://camo.githubusercontent.com/75034af641cfa10810d5f7bb9f0e815a1ec2ce3d9ee5540893518b4d3727712c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d386363346437)
+![DEVTOOLS](https://camo.githubusercontent.com/4b30119404617326ea1e1bc429da088f2d0acb4e49e11f87972e2487efb51dbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446576546f6f6c732d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c656368726f6d65266c6f676f436f6c6f723d323637346632)
+![FIGMA](https://camo.githubusercontent.com/43dec30eb269fb83f3ac6cc46ee9ac1e05f7454cd2b6026795d928e7d4469bb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d376435666136)
