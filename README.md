@@ -4,19 +4,19 @@ SKILLS
 ---
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Charles](https://img.shields.io/badge/CHARLES-d3dade?style=for-the-badge&logo=CHARLES&logoColor=white)
+![Fiddler](https://img.shields.io/badge/Fiddler-63e60b?style=for-the-badge&logo=Fiddler&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DEVTOOLS-4285F4?style=for-the-badge&logo=DEVTOOLS&logoColor=white)
-![TelerikFiddler](https://img.shields.io/badge/Telerik%20Fiddler-63e60b?style=for-the-badge&logo=Telerik-Fiddler&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3ae180.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/MIRO-ffba00?style=for-the-badge&logo=MIRO&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-188038?style=for-the-badge&logo=Google-Sheets&logoColor=white)
-![Web Testing](https://img.shields.io/badge/Web%20Testing-e06666?style=for-the-badge&logo=Web&logoColor=white)
-![Mobile Testing](https://img.shields.io/badge/Mobile%20Testing-76a5af?style=for-the-badge&logo=Mobile&logoColor=white)
+![Web Testing](https://img.shields.io/badge/Web%20Testing-3867a2?style=for-the-badge&logo=Web&logoColor=white)
+![Mobile Testing](https://img.shields.io/badge/Mobile%20Testing-a1ab26?style=for-the-badge&logo=Mobile&logoColor=white)
 ![Testing Theory](https://img.shields.io/badge/Testing%20Theory-674ea7?style=for-the-badge&logo=Testing-Theory&logoColor=white)
-![Client server](https://img.shields.io/badge/Client%20Server-ffc000?style=for-the-badge&logo=Client-Server&logoColor=white)
+![Client server](https://img.shields.io/badge/Client%20Server-e53e31?style=for-the-badge&logo=Client-Server&logoColor=white)
 ---
 SOCIAL
 ---
