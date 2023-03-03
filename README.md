@@ -9,7 +9,9 @@ SKILLS
 ![DevTools](https://img.shields.io/badge/DEVTOOLS-4285F4?style=for-the-badge&logo=DEVTOOLS&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/MIRO-ffba00?style=for-the-badge&logo=MIRO&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![GoogleSheets](https://img.shields.io/badge/GoogleSheets-188038?style=for-the-badge&logo=GoogleSheets&logoColor=white)
 ---
 SOCIAL
 ---
@@ -20,5 +22,4 @@ SOCIAL
 ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ---
