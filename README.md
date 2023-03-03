@@ -10,6 +10,7 @@ SKILLS
 ![DevTools](https://img.shields.io/badge/DEVTOOLS-4285F4?style=for-the-badge&logo=DEVTOOLS&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3ae180.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Miro](https://img.shields.io/badge/MIRO-ffba00?style=for-the-badge&logo=MIRO&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-188038?style=for-the-badge&logo=Google-Sheets&logoColor=white)
