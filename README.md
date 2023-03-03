@@ -1,6 +1,7 @@
 ![welcome](https://github.com/VictoriaK-QA/VictoriaK-QA/blob/main/1.3.gif)
+
 ---
-SKILLS
+#####SKILLS
 ---
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Charles](https://img.shields.io/badge/CHARLES-d3dade?style=for-the-badge&logo=CHARLES&logoColor=white)
@@ -18,14 +19,34 @@ SKILLS
 ![Mobile Testing](https://img.shields.io/badge/Mobile%20Testing-a1ab26?style=for-the-badge&logo=Mobile&logoColor=white)
 ![Testing Theory](https://img.shields.io/badge/Testing%20Theory-674ea7?style=for-the-badge&logo=Testing-Theory&logoColor=white)
 ![Client server](https://img.shields.io/badge/Client%20Server-e53e31?style=for-the-badge&logo=Client-Server&logoColor=white)
+
 ---
-SOCIAL
+#####ABOUT ME
 ---
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+:mortar_board: ***I graduated from the Yandex EdTech Quality Control Engineer training course***
+:books: ***I continue to improve my skills at Vadim Ksenzov's QA courses***
+:computer: ***I am going through a commercial testing practice in the ITX company***
+:feet: ***I have a pet - a cat***
+:ghost: ***In my free time I like to watch series and movies***
+
+
+---
+#####SOCIAL
+---
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-link/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](v903971@gmail.com)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+
 ---
+#####TESTING DOCUMENTATION
+---
+[X] Smoke Tests Checklist
+[X] Bug Reports
+[X] Postman Requests
+[X] Miro Mind Map
+[X] Checklist API
