@@ -6,9 +6,9 @@ SKILLS
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![CHARLES](https://img.shields.io/badge/CHARLES-000?style=for-the-badge&logo=CHARLES&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![DEVTOOLS](https://github.com/VictoriaK-QA/VictoriaK-QA/blob/main/icons/googlechrome.svg/badge/DEVTOOLS-000?style=for-the-badge&logo=DEVTOOLS&logoColor=blue)
-![Android Studio](?style=for-the-badge&logo=android-studio&logoColor=white)
-![FIGMA](https://img.shields.io/static/v1?label=<https://github.com/VictoriaK-QA/VictoriaK-QA/blob/main/icons/figma.svg>&message=<FIGMA>&color=<yellow>)
+![DEVTOOLS](https://img.shields.io/badge/DEVTOOLS-000?style=for-the-badge&logo=DEVTOOLS&logoColor=blue)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![FIGMA](https://img.shields.io/static/v1?label=<>&message=<FIGMA>&color=<yellow>)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ---
 SOCIAL
