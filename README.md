@@ -8,7 +8,7 @@ SKILLS
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![DEVTOOLS](https://github.com/VictoriaK-QA/VictoriaK-QA/blob/main/icons/googlechrome.svg/badge/DEVTOOLS-000?style=for-the-badge&logo=DEVTOOLS&logoColor=blue)
 ![Android Studio](?style=for-the-badge&logo=android-studio&logoColor=white)
-![FIGMA](https://github.com/VictoriaK-QA/VictoriaK-QA/blob/main/icons/figma.svg?style=for-the-badge&logo=FIGMA&logoColor=yellow)
+![FIGMA](https://img.shields.io/static/v1?label=<https://github.com/VictoriaK-QA/VictoriaK-QA/blob/main/icons/figma.svg>&message=<FIGMA>&color=<yellow>)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ---
 SOCIAL
