@@ -55,8 +55,8 @@
 ##### TESTING DOCUMENTATION
 ---
 
-- [X] [Mobile Testing Checklist]()
-- [X] [Smoke Tests Checklist]()
+- [X] [Mobile Testing Checklist](https://docs.google.com/spreadsheets/d/15L9COlHT1ZJFGUdPdv-g8X1WPs3EQA_tiRYrga44mRs/edit?usp=sharing)
+- [X] [Smoke Tests Checklist](https://docs.google.com/spreadsheets/d/1-uU3b7K6AJwzYpHR-aXX1KsZbuJot6Qw/edit?usp=sharing&ouid=108568080276339718925&rtpof=true&sd=true)
 - [X] [Bug Reports]()
 - [X] [Postman Requests]()
 - [X] [Miro Mind Map]()
